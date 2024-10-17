@@ -13,7 +13,7 @@ Para poder demostrar y aprender la cración y consumo de Interfaces de Programac
 |8.|17/10/2024|Nuevo Repositorio del Proyecto implementando .gitignore|1|Activa|
 
 ### Autor 
- **José Arturo García González** / [@ppyo1234](https://github.com/ppyo1234)
-Unidad 2
-Aplicaciones Web Orientadas a Servicios
-Octubre 2024
+ **José Arturo García González** / [@ppyo1234](https://github.com/ppyo1234)<br>
+Unidad 2<br>
+Aplicaciones Web Orientadas a Servicios<br>
+Octubre 2024<br>
