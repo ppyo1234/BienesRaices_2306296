@@ -4,7 +4,7 @@ Proyecto de Clase para la Unidad 2 de la asignatura de Aplicaciones Web Orientad
 
 ## Descripción 
 
-Para poder demostrar y aprender la cración y consumo de Interfaces de Programación de Aplicación (API), cn el uso de Aplicaciones Web, en este proyecto se realizará un sistema CRUD con en el contexto de las operaciones comunes para una empresa de Bienes Raíces, mediante la compra, ,venta de propiedades, utilizando las reglas de negocio apropiadas para la gestión, identificación y control de usuarios. 
+Para poder demostrar y aprender la cración y consumo de Interfaces de Programación de Aplicación (API), con el uso de Aplicaciones Web, en este proyecto se realizará un sistema CRUD con en el contexto de las operaciones comunes para una empresa de Bienes Raíces, mediante la compra, venta de propiedades, utilizando las reglas de negocio apropiadas para la gestión, identificación y control de usuarios. 
 
 ## Historial de Prácticas 
 
